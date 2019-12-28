@@ -230,5 +230,5 @@
       <id>nexus_hellojava</id>
       <url>http://3.14.67.110:8081/repository/nexus_hellojava/</url>
     </snapshotRepository>
- </distributionManagement>
+  </distributionManagement>
 </project>
